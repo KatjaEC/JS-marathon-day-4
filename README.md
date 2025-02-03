@@ -1,2 +1,2 @@
 # JS-marathon-day-4
-Fourth personal project from JS-marathon tasks
+Личный проект для Javascript-марафона, день 4. Заливка цветом. При попадании курсора на клетки поля, они временно окрашиваются в разные цвета.
